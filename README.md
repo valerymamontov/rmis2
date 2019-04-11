@@ -8,11 +8,15 @@
 как в заголовке добавить перенос строки
 
 ## получалось так:
+```
 <?xml version="1.0" encoding="Windows-1251"?><ZL_LIST>
   <ZGLV>
+```
 
 ## а хотел сделать так (как в исходнике):
+```
 <?xml version="1.0" encoding="Windows-1251"?>
 
 <ZL_LIST>
   <ZGLV>
+```
